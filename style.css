@@ -18,3 +18,11 @@
     width:150px;
     border: 2px black solid;
 }
+
+#left-col{
+    width:90vw;
+}
+
+#right-col{
+    width:90vw;
+}
